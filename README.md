@@ -1,2 +1,2 @@
 # Movie-Recommendations
-Create movie recommendation from dataset
+Create movie recommendation from dataset using Pearson's algorithm
